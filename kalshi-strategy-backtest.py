@@ -2,7 +2,7 @@
 """
 Created in 2023
 
-@author: Local User
+@author: Quant Galore
 """
 
 from feature_functions import Binarizer, return_proba, round_to_multiple
