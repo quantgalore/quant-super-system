@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Nov 30 12:53:26 2023
+Created in 2023
 
-@author: Locale
+@author: Quant Galore
 """
 
 from datetime import datetime, timedelta
